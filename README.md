@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddukulkarni" alt="siddukulkarni" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development & React Js**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 📫 How to reach me **siddukulkarni88@gmail.com**
 
