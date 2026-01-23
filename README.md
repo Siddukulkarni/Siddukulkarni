@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 🔭 I’m Fresher(Computer Science)<br>👯 I’m looking to collaborate on Software Role<br>🌱 I’m currently learning Java & Frontend Development <br>💬 Ask me about anything 
 
 
