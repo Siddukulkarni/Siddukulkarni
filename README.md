@@ -15,7 +15,6 @@
 I'm a BCA student passionate about Data Analytics and AI/ML, with hands-on experience in Python and working with datasets. I enjoy analyzing data, finding insights, and building intelligent solutions. I am a quick learner, adaptable, and currently focused on developing real-world skills in data analysis, visualization, and machine learning. Open to connecting with professionals and opportunities in Data Analytics and AI/ML.
   </p>
 
-
 <h3>🌐 Socials</h3>
   
   <a href="https://github.com/Siddukulkarni">
@@ -29,8 +28,6 @@ I'm a BCA student passionate about Data Analytics and AI/ML, with hands-on exper
   <a href="https://linkedin.com/in/siddukulkarni">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-
-  
 </div>
 
 <br clear="all" />
@@ -50,7 +47,7 @@ I'm a BCA student passionate about Data Analytics and AI/ML, with hands-on exper
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,numpy,pandaas,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,numpy,pandas,bootstrap" />
 </td>
 
 
@@ -59,7 +56,7 @@ I'm a BCA student passionate about Data Analytics and AI/ML, with hands-on exper
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=SQL" />
+    <img src="https://skillicons.dev/icons?i=sql" />
 <br/><br/>
 
 </td>
