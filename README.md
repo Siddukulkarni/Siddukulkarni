@@ -15,12 +15,6 @@
 I'm a BCA student passionate about Data Analytics and AI/ML, with hands-on experience in Python and working with datasets. I enjoy analyzing data, finding insights, and building intelligent solutions. I am a quick learner, adaptable, and currently focused on developing real-world skills in data analysis, visualization, and machine learning. Open to connecting with professionals and opportunities in Data Analytics and AI/ML.
   </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="siddukulkarni88@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
 
 <h3>🌐 Socials</h3>
   
@@ -56,7 +50,7 @@ I'm a BCA student passionate about Data Analytics and AI/ML, with hands-on exper
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,numpy,pandaas,bootstrap" />
 </td>
 
 
@@ -90,12 +84,4 @@ I'm a BCA student passionate about Data Analytics and AI/ML, with hands-on exper
   <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
----
 
-## ❤️ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
